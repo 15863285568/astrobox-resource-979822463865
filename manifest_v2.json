@@ -1,0 +1,45 @@
+{
+  "item": {
+    "id": "979822463865",
+    "restype": "watchface",
+    "name": "江诗丹顿",
+    "description": "手绘表盘，江诗丹顿",
+    "preview": [
+      "media/123456.png",
+      "media/fewafde.png",
+      "media/grgsgsgs.png"
+    ],
+    "icon": "media/icon.png",
+    "cover": "media/icon_color.png",
+    "author": [
+      {
+        "name": "Qq-designer",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb10": {
+      "version": "1.0.0",
+      "file_name": "downloads/江诗丹顿.bin",
+      "versionCode": 65536
+    },
+    "xmb11": {
+      "version": "1.0.0",
+      "file_name": "downloads/江诗丹顿.bin",
+      "versionCode": 65536
+    },
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "downloads/江诗丹顿-xmb9p.bin",
+      "versionCode": 65536
+    },
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "downloads/江诗丹顿-xmb9p.bin",
+      "versionCode": 65536
+    }
+  },
+  "ext": {}
+}
